@@ -152,6 +152,16 @@
           "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets": {}
         }
       },
+      "Microsoft.VisualStudio.Azure.Kubernetes.Tools.Targets/1.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.1.1"
+        },
+        "build": {
+          "build/Microsoft.VisualStudio.Azure.Kubernetes.Tools.Targets.props": {},
+          "build/Microsoft.VisualStudio.Azure.Kubernetes.Tools.Targets.targets": {}
+        }
+      },
       "Newtonsoft.Json/10.0.1": {
         "type": "package",
         "dependencies": {
@@ -1222,6 +1232,24 @@
         "tools/zh-Hant/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
         "tools/zh-Hant/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
         "tools/zh-Hant/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll"
+      ]
+    },
+    "Microsoft.VisualStudio.Azure.Kubernetes.Tools.Targets/1.1.0": {
+      "sha512": "e8UX59gP87Atju23R93cdqPwk8CW2zdmxOkfTtycjO7cxRmlF2D3OHOZMJDrccpsCwPrj9vTJPTBrqQMR97gRg==",
+      "type": "package",
+      "path": "microsoft.visualstudio.azure.kubernetes.tools.targets/1.1.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "EULA.md",
+        "build/Helm.props",
+        "build/Helm.targets",
+        "build/Microsoft.VisualStudio.Azure.Kubernetes.Tools.Targets.props",
+        "build/Microsoft.VisualStudio.Azure.Kubernetes.Tools.Targets.targets",
+        "microsoft.visualstudio.azure.kubernetes.tools.targets.1.1.0.nupkg.sha512",
+        "microsoft.visualstudio.azure.kubernetes.tools.targets.nuspec",
+        "tools/Microsoft.VisualStudio.Kubernetes.Tools.Tasks.dll"
       ]
     },
     "Newtonsoft.Json/10.0.1": {
@@ -3813,6 +3841,7 @@
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 3.1.9",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.10.13",
+      "Microsoft.VisualStudio.Azure.Kubernetes.Tools.Targets >= 1.1.0",
       "Swashbuckle.AspNetCore >= 6.1.1"
     ]
   },
@@ -3867,6 +3896,10 @@
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
             "target": "Package",
             "version": "[1.10.13, )"
+          },
+          "Microsoft.VisualStudio.Azure.Kubernetes.Tools.Targets": {
+            "target": "Package",
+            "version": "[1.1.0, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",

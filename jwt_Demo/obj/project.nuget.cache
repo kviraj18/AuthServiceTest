@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fieXj6BGCiL+5fxqGHcM22/y9oAXLcpdOUAOZhkVOlcURna3qejlv26CgRgZ4FYdoyqxtvjlDD+UZ4dT460r7Q==",
+  "dgSpecHash": "tRMLZq7+ApAEZ5WTqC3fa8gQpX96O3B6lduvYAEqQce6lVsmJIhpAiY3CRxOjh3KEkwyFN7ZRJxt5Xj1Gxh2Yg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\Project - Final - Copy\\Portfolio_Authentication\\jwt_Demo\\portfolio_Authentication.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.kubernetes.tools.targets\\1.1.0\\microsoft.visualstudio.azure.kubernetes.tools.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.1\\swashbuckle.aspnetcore.6.1.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.1\\swashbuckle.aspnetcore.swagger.6.1.1.nupkg.sha512",
