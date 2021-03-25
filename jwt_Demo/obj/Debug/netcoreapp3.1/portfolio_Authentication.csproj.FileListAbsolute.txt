@@ -1,0 +1,165 @@
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.csprojAssemblyReference.cache
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.AssemblyInfoInputs.cache
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.AssemblyInfo.cs
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.csproj.CoreCompileInputs.cache
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.exe
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.deps.json
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.runtimeconfig.json
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.runtimeconfig.dev.json
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.dll
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.pdb
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\obj\Debug\netcoreapp3.1\staticwebassets\portfolio_Authentication.StaticWebAssets.Manifest.cache
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\obj\Debug\netcoreapp3.1\staticwebassets\portfolio_Authentication.StaticWebAssets.xml
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\obj\Debug\netcoreapp3.1\scopedcss\bundle\portfolio_Authentication.styles.css
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.RazorTargetAssemblyInfo.cache
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.csproj.CopyComplete
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.dll
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.pdb
+C:\Users\Arvinth S(885858)\source\repos\jwt_Demo\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.exe
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.deps.json
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.runtimeconfig.json
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.dll
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.pdb
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\staticwebassets\portfolio_Authentication.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\staticwebassets\portfolio_Authentication.StaticWebAssets.xml
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\scopedcss\bundle\portfolio_Authentication.styles.css
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.dll
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.pdb
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Project 1\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.csprojAssemblyReference.cache
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.exe
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.deps.json
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.runtimeconfig.json
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.runtimeconfig.dev.json
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.pdb
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.csprojAssemblyReference.cache
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.AssemblyInfoInputs.cache
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.AssemblyInfo.cs
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.csproj.CoreCompileInputs.cache
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\staticwebassets\portfolio_Authentication.StaticWebAssets.Manifest.cache
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\staticwebassets\portfolio_Authentication.StaticWebAssets.xml
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\scopedcss\bundle\portfolio_Authentication.styles.css
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.RazorTargetAssemblyInfo.cache
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.csproj.CopyComplete
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.pdb
+C:\Users\arvin\OneDrive\Desktop\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.exe
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.deps.json
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.runtimeconfig.json
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.pdb
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\staticwebassets\portfolio_Authentication.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\staticwebassets\portfolio_Authentication.StaticWebAssets.xml
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\scopedcss\bundle\portfolio_Authentication.styles.css
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.pdb
+C:\Users\Admin\Desktop\Project - Final\Project 2\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.exe
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.deps.json
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.runtimeconfig.json
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\portfolio_Authentication.pdb
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\staticwebassets\portfolio_Authentication.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\staticwebassets\portfolio_Authentication.StaticWebAssets.xml
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\scopedcss\bundle\portfolio_Authentication.styles.css
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.pdb
+C:\Users\Admin\Desktop\Project - Final - Copy\Portfolio_Authentication\jwt_Demo\obj\Debug\netcoreapp3.1\portfolio_Authentication.genruntimeconfig.cache
